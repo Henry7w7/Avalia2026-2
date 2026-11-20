@@ -1,0 +1,15 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "habitos-p26-2a-3195",
+  "compatibility_date": "2026-03-01",
+  "pages_build_output_dir": "./public",
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "db-p26-2a-3195-12ec-5382-8226",
+      // Troque pelo database_id que o comando "wrangler d1 create" mostrar:
+      "database_id": "00000000-0000-0000-0000-000000000000",
+      "migrations_dir": "migrations"
+    }
+  ]
+}
