@@ -7,8 +7,8 @@
     {
       "binding": "DB",
       "database_name": "db-p26-2a-3195-12ec-5382-8226",
-      // Troque pelo database_id que o comando "wrangler d1 create" mostrar:
-      "database_id": "00000000-0000-0000-0000-000000000000",
+      // Banco D1 de producao (criado no painel da Cloudflare)
+      "database_id": "d2d96046-ab61-40b9-9ad1-35cc1553bb1c",
       "migrations_dir": "migrations"
     }
   ]
